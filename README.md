@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Kaan, and I'm a student at the Università di Padova studying Information Engineering and interested in Embedded Systems and all things coding.
+
+- 🔭 I’m currently working on a custom [anemometer](https://github.com/metisvela/sailtrack-wind/tree/NewWind) for our sailing team, Metis Vela
+
+
 <!--
 **kaanbek0/kaanbek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
