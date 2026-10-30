@@ -3,7 +3,9 @@
 My name is Kaan, and I'm a student at the Università di Padova studying Information Engineering and interested in Embedded Systems and all things coding.
 I'm also the Head of Electronics at [Metis Vela](https://github.com/metisvela).
 
-- 🔭 I’m currently working on the [telemetry system](https://github.com/metisvela/sailtrack-telemetry) for our sailing team
+- 🔭 I’m currently working on the [telemetry system](https://github.com/metisvela/sailtrack-telemetry) for our Skiff type boats
+- 🎮 I'm also supervising the development of our automated [flight control system](https://github.com/metisvela/sailtrack-flight-control) for our SuMoth class boat.
+- 💬 You can reach me at kaan.bek55@gmail.com. For more information about Metis Vela: info@metisvela.it
 
 
 <!--
