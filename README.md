@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 My name is Kaan, and I'm a student at the Università di Padova studying Information Engineering and interested in Embedded Systems and all things coding.
+I'm also the Head of Electronics at [Metis Vela](https://github.com/metisvela).
 
-- 🔭 I’m currently working on a custom [anemometer](https://github.com/metisvela/sailtrack-wind/tree/NewWind) for our sailing team, Metis Vela
+- 🔭 I’m currently working on the [telemetry system](https://github.com/metisvela/sailtrack-telemetry) for our sailing team
 
 
 <!--
